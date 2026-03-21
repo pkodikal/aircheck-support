@@ -6,7 +6,7 @@
 
 ## Who we are
 
-AirPulse is an iOS app built by Priya Kodikal ("I", "me"). This policy explains what data the app collects, why, and what happens to it.
+AirPulse is an iOS app built by Priyanka Kodikal ("I", "me"). This policy explains what data the app collects, why, and what happens to it.
 
 If you have questions, email me: **pkodikal.design@gmail.com**
 
