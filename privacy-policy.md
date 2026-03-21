@@ -1,28 +1,28 @@
-# Privacy Policy — AirCheck
+# Privacy Policy — AirPulse
 
-**Last updated:** March 14, 2026
+**Last updated:** March 21, 2026
 
 ---
 
 ## Who we are
 
-AirCheck is an iOS app built by Priyanka Kodikal ("I", "me"). This policy explains what data the app collects, why, and what happens to it.
+AirPulse is an iOS app built by Priya Kodikal ("I", "me"). This policy explains what data the app collects, why, and what happens to it.
 
 If you have questions, email me: **pkodikal.design@gmail.com**
 
 ---
 
-## What data AirCheck collects
+## What data AirPulse collects
 
 ### Location
-If you grant location permission, AirCheck reads your device's current latitude and longitude. This is the only personal data the app touches.
+If you grant location permission, AirPulse reads your device's current latitude and longitude. This is the only personal data the app touches.
 
-AirCheck requests **"When In Use"** location access only. It does not access your location in the background.
+AirPulse requests **"When In Use"** location access only. It does not access your location in the background.
 
 If you deny location permission, no location data is collected. You can still use the app by searching for a city manually.
 
 ### Nothing else
-AirCheck does not collect your name, email address, phone number, or any other personal information. There is no account, no login, and no user profile.
+AirPulse does not collect your name, email address, phone number, or any other personal information. There is no account, no login, and no user profile.
 
 ---
 
@@ -36,7 +36,7 @@ IQAir's own privacy policy is available at: [https://www.iqair.com/privacy-polic
 
 ## What is stored on your device
 
-AirCheck saves the following to your device's local storage (UserDefaults) so the app can show your last result on relaunch:
+AirPulse saves the following to your device's local storage (UserDefaults) so the app can show your last result on relaunch:
 
 - Your last known location (city name and coordinates)
 - The last AQI reading and timestamp
@@ -57,7 +57,7 @@ This data never leaves your device except as described above (lat/lon sent to IQ
 
 ## Third-party services
 
-AirCheck uses one external service:
+AirPulse uses one external service:
 
 | Service | Purpose | Privacy Policy |
 |---|---|---|
@@ -69,7 +69,7 @@ No other third-party SDKs or services are used.
 
 ## Children's privacy
 
-AirCheck does not knowingly collect data from children under 13. The app contains no features directed at children and collects no personal information from any user.
+AirPulse does not knowingly collect data from children under 13. The app contains no features directed at children and collects no personal information from any user.
 
 ---
 
